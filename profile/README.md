@@ -1,7 +1,8 @@
+# Prodaric is a Fedora based project for business.
 
 ![Prodaric: The Productivity Framework](https://prodaric.com/images/splash.png)
 
-## Prodaric WorkStation
+## Prodaric Workstation
 
 - 🙋‍♀️ A short introduction - what is your organization all about?
 - 🌈 Contribution guidelines - how can the community get involved?
