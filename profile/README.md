@@ -2,6 +2,17 @@
 
 ![Prodaric: The Productivity Framework](https://prodaric.com/images/splash.png)
 
+|  | Prodaric WorkStation | Prodaric Kiosk | Prodaric Server | Prodaric Cloud |
+|---	|:-:	|:-:	|:-:	|:-:	|
+|  Zero telemetry 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|
+|  Prodaric core 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|
+|  Minimal KDE 	|  :heavy_check_mark: 	|   	|   	|   	|
+|  Office automation	| :ballot_box_with_check:	|   	|   	|   	|
+|  WebApps Client 	|  :ballot_box_with_check:	|   	|   	|   	|
+|  Network Control	|   	|   	| :heavy_check_mark:	|   	|
+| Webserver Tools	|   	| :ballot_box_with_check:	| :heavy_check_mark:	| :heavy_check_mark: |
+| Control Panel	|   	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
+
 ## Prodaric Workstation
 
 - 🙋‍♀️ A short introduction - what is your organization all about?
