@@ -73,6 +73,8 @@
 
 ## The Productivity Infrastructure
 
+### Server infrastructure
+
 | Storage | Security | Intranet |  DMZ | Web | DBMS | DevOps | Virtualization |
 |---	|---	|---	|---	|---	|---	|---	|---	|
 | NFS | TPM 2.0 | Squid Proxy | Load Balancer | Apache | MySQL | Jenkins | KVM |
