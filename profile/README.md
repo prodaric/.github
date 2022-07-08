@@ -72,7 +72,7 @@
 
 🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
 
-## The Productivity Infrastrcuture
+## The Productivity Infrastructure
 
 | Core | Network Tools	| Webservers | DevOps Tools | Control Panel	|
 |---	|---	|---	|---	|---	|
@@ -91,6 +91,7 @@
 |  	|  	|  	|  	|  	|
 
 ## The Productivity Framework
+
 | Prodaric CRM | Prodaric ERP | Prodaric HRM | Prodaric CCR | Prodaric LCM | Prodaric CMS |
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Customer Relationship Management	| Enterprise Resource Planning	| Human Resource Management	| Continuity of Care Record	| Learning Content Management	| Content Management System	|
