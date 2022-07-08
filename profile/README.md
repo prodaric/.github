@@ -73,15 +73,13 @@
 
 ## The Productivity Infrastructure
 
-| File Storage | Security | Intranet |  DMZ | Webservers | DBMS | DevOps Tools |
-|---	|---	|---	|---	|---	|---	|---	|
-| NFS | TPM 2.0 | Squid Proxy | VPN Server	| Apache | MySQL |  |
-| iSCSI | FreeIPA | Captive portal | High availability | nginx | PostgreSQL |  	|
-| GlusterFS | OpenLDAP | IP DVR | DNS Server | Tomcat	| Redis	|  |
-| Samba | Firewall | IP PBX |  | HAProxy |  |  	|
-| FTP Server |  | DHCP Server | Load Balancer	|  	|  	|  	|
-| 	|  | 	| Multi WAN	|  	|  	|  	|
-| 	|  | 	| NAT |  	|  	|  	|
+| File Storage | Security | Intranet |  DMZ | Webservers | DBMS | DevOps Tools | Virtualization |
+|---	|---	|---	|---	|---	|---	|---	|---	|
+| NFS | TPM 2.0 | Squid Proxy | VPN Server| Apache | MySQL | Jenkins | KVM |
+| iSCSI | FreeIPA | Captive portal | High availability | nginx | PostgreSQL | TeamCity | Vagrant |
+| GlusterFS | OpenLDAP | IP DVR | Multi WAN | Tomcat	|  | GitLab | Podman |
+| Samba | Firewall | IP PBX | NAT | DNS Server |  | Redmine | Kubernetes |
+| FTP Server | PPPoE Server | DHCP Server | Load Balancer	| Mail Server	|  	| |  |
 
 ## The Productivity Framework
 
