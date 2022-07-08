@@ -26,23 +26,19 @@
 
 > Consider the fact that there is no release version yet, we are developing the first distribution.
 
+## Prodaric Hub
+
+- Prodaric Hub offers an installation suite of client applications that can interact with the Prodaric core infrastructure on Microsoft Windows &reg;
+
 ## Prodaric Workstation
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Designed to be a suitable installation for a work station, both for operators and administrators, it tries to have the necessary tools and the necessary requirements in a company.
 
- ## Prodaric Kiosk
+## Prodaric Kiosk
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- Designer for point of sale stations, order control, or self-service, ideal for unattended and public access computers.
 
- ## Prodaric Server
+## Prodaric Server
 
 - 🙋‍♀️ A short introduction - what is your organization all about?
 - 🌈 Contribution guidelines - how can the community get involved?
