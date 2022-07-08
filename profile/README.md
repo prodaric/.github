@@ -2,26 +2,29 @@
 
 ![Prodaric: The Productivity Framework](https://prodaric.com/images/splash.png)
 
-|  | Prodaric WorkStation | Prodaric Kiosk | Prodaric Server | Prodaric Cloud |
-|---	|:-:	|:-:	|:-:	|:-:	|
-|  Zero telemetry 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|
-|  Prodaric core 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|  :heavy_check_mark: 	|
-|  Minimal KDE 	|  :heavy_check_mark: 	|   	|   	|   	|
-|  Office automation	| :ballot_box_with_check:	|   	|   	|   	|
-|  WebApps Client 	|  :ballot_box_with_check:	|   	|   	|   	|
-|  Prodaric CRM	| :ballot_box_with_check:	|   	| :link:	| :link:	|
-|  Prodaric ERP	| :ballot_box_with_check:	|   	| :link:	| :link:	|
-|  Prodaric HRM	| :ballot_box_with_check:	|   	| :link:	| :link:	|
-|  Prodaric CCR	| :ballot_box_with_check:	|   	| :link:	| :link:	|
-|  Prodaric LCM	| :ballot_box_with_check:	|   	| :link:	| :link:	|
-|  Prodaric CMS	| :ballot_box_with_check:	|   	| :link:	| :link:	|
-|  Network Control	|   	|   	| :heavy_check_mark:	|   	|
-| Webserver Tools	|   	| :ballot_box_with_check:	| :heavy_check_mark:	| :heavy_check_mark: |
-| Control Panel	|   	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
+|  | Prodaric Hub | Prodaric Workstation | Prodaric Kiosk | Prodaric Server | Prodaric Cloud | Prodaric IoT |
+| ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
+|  Zero telemetry | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
+|  Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
+|  Framework	| :heavy_check_mark: |  | 	| 	| 	|
+|  Minimal KDE |  | :heavy_check_mark: | 	| 	| 	|
+|  Office automation	| 	| :ballot_box_with_check:	| 	| 	| 	|
+|  WebApps Client 	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| 	| 	|
+|  Prodaric CRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+|  Prodaric ERP	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+|  Prodaric HRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+|  Prodaric CCR | :ballot_box_with_check:	| :ballot_box_with_check:	| 	| :link:	| :link:	|
+|  Prodaric LCM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+|  Prodaric CMS	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+|  Network Control	|	 | 	| 	| :heavy_check_mark:	| 	|
+| Webserver Tools	| 	| 	| :ballot_box_with_check:	| :heavy_check_mark:	| :heavy_check_mark: |
+| Control Panel	| 	| 	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
+| 	| 	| 	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
+| 	| <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> |
 
-:heavy_check_mark: Included
-:ballot_box_with_check:	Optional
-:link: Linked
+:heavy_check_mark: Included 
+:ballot_box_with_check:	Optional 
+:link: Linked 
 
 ## Prodaric Workstation
 
