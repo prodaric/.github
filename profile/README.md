@@ -73,7 +73,7 @@
 
 ## The Productivity Infrastructure
 
-| File Storage | Security | Intranet |  DMZ | Webservers | DBMS | DevOps Tools | Virtualization |
+| Storage | Security | Intranet |  DMZ | Web | DBMS | DevOps | Virtualization |
 |---	|---	|---	|---	|---	|---	|---	|---	|
 | NFS | TPM 2.0 | Squid Proxy | VPN Server| Apache | MySQL | Jenkins | KVM |
 | iSCSI | FreeIPA | Captive portal | High availability | nginx | PostgreSQL | TeamCity | Vagrant |
