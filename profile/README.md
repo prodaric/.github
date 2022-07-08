@@ -3,7 +3,7 @@
 ![Prodaric: The Productivity Framework](https://prodaric.com/images/splash.png)
 | Choose edition | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
 | ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
-|  Zero telemetry | true | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
+|  Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 |  Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 |  Framework	| :heavy_check_mark: |  | 	| 	| 	|
 |  Minimal KDE |  | :heavy_check_mark: | 	| 	| 	|
