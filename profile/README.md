@@ -9,7 +9,7 @@
 
 | Choose edition | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
 | ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
-| Scope | Workstation | Workstation | POS Station | Intranet | Internet | Embedded |
+| Scope | Workstation | Workstation | POS | Intranet | Internet | Embedded |
 | Based on | .Net Framework | Fedora | Fedora | Fedora | Fedora | FreeRTOS |
 | Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 | Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
@@ -75,11 +75,11 @@
 
 | Storage | Security | Intranet |  DMZ | Web | DBMS | DevOps | Virtualization |
 |---	|---	|---	|---	|---	|---	|---	|---	|
-| NFS | TPM 2.0 | Squid Proxy | VPN Server| Apache | MySQL | Jenkins | KVM |
-| iSCSI | FreeIPA | Captive portal | High availability | nginx | PostgreSQL | TeamCity | Vagrant |
+| NFS | TPM 2.0 | Squid Proxy | Load Balancer | Apache | MySQL | Jenkins | KVM |
+| iSCSI | FreeIPA | Captive portal | High availability | Nginx | PostgreSQL | TeamCity | Vagrant |
 | GlusterFS | OpenLDAP | IP DVR | Multi WAN | Tomcat	|  | GitLab | Podman |
 | Samba | Firewall | IP PBX | NAT | DNS Server |  | Redmine | Kubernetes |
-| FTP Server | PPPoE Server | DHCP Server | Load Balancer	| Mail Server	|  	| |  |
+| FTP Server | PPPoE Server | DHCP Server | VPN Server | Mail Server	|  	| |  |
 
 ## The Productivity Framework
 
