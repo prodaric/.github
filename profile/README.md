@@ -1,7 +1,7 @@
 # Prodaric is a Fedora based project for business.
 
 ![Prodaric: The Productivity Framework](https://prodaric.com/images/splash.png)
-| Choose the edition that suits you best | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
+| Choose edition | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
 | ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
 |  Zero telemetry | true | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 |  Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
@@ -18,7 +18,7 @@
 |  Network Control	|	 | 	| 	| :heavy_check_mark:	| 	|
 | Webserver Tools	| 	| 	| :ballot_box_with_check:	| :heavy_check_mark:	| :heavy_check_mark: |
 | Control Panel	| 	| 	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
-| No Release	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com/) |
+| No release available	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com/) |
 
 :heavy_check_mark: Included 
 :ballot_box_with_check:	Optional 
