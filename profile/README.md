@@ -9,6 +9,7 @@
 
 | Choose edition | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
 | ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
+| Scope | Desktop Workstation | Desktop Workstation | POS Station | Intranet server | Internet server | IoT Devices |
 | Based on | .Net Framework | Fedora | Fedora | Fedora | Fedora | FreeRTOS |
 | Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 | Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
@@ -74,12 +75,13 @@
 
 ## The Productivity Infrastructure
 
-| Core | Network Tools	| Webservers | DevOps Tools | Control Panel	|
+### Server
+| Core | Network Tools	| Webservers | DBMS | DevOps Tools |
 |---	|---	|---	|---	|---	|
-| 	| VPN Server	|  	|  	|  |
-|  	| Proxy Server |  	|  	|  	|
-|  	| DNS Server |  	|  	| 	|
-|  	| PPPoE Server |  	|  	|  	|
+| 	| VPN Server	| Apache | MySQL |  |
+|  	| Proxy Server | nginx | PostgreSQL |  	|
+|  	| DNS Server | 	| Tomcat	| Redis	|
+|  	| PPPoE Server |  |  |  	|
 |  	| DHCP Server	|  	|  	|  	|
 |  	| Captive portal |  	|  	|  	|
 |  	| Load Balancer |  	|  	|  	|
@@ -88,7 +90,7 @@
 |  	| Network Address Translation (NAT) |  	|  	|  	|
 |  	| Firewall |  	|  	|  	|
 |  	| IP PBX |  	|  	|  	|
-|  	|  	|  	|  	|  	|
+|  	| IP DVR |  	|  	|  	|
 
 ## The Productivity Framework
 
