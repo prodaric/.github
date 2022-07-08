@@ -71,26 +71,23 @@
 - 🍿 Fun facts - what does your team eat for breakfast?
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
-
 ## The Productivity Infrastructure
 
-### Server
-| Core | Network Tools	| Webservers | DBMS | DevOps Tools |
-|---	|---	|---	|---	|---	|
-| 	| VPN Server	| Apache | MySQL |  |
-|  	| Proxy Server | nginx | PostgreSQL |  	|
-|  	| DNS Server | 	| Tomcat	| Redis	|
-|  	| PPPoE Server |  |  |  	|
-|  	| DHCP Server	|  	|  	|  	|
-|  	| Captive portal |  	|  	|  	|
-|  	| Load Balancer |  	|  	|  	|
-|  	| Multi WAN	|  	|  	|  	|
-|  	| High availability |  	|  	|  	|
-|  	| Network Address Translation (NAT) |  	|  	|  	|
-|  	| Firewall |  	|  	|  	|
-|  	| IP PBX |  	|  	|  	|
-|  	| IP DVR |  	|  	|  	|
+| Storage | Security | Network Tools	| Webservers | DBMS | DevOps Tools |
+|---	|---	|---	|---	|---	|---	|
+| NFS | TPM 2.0 | VPN Server	| Apache | MySQL |  |
+| iSCSI | FreeIPA | Squid Proxy | nginx | PostgreSQL |  	|
+| GlusterFS | OpenLDAP | DNS Server | Tomcat	| Redis	|  |
+| Samba	|  | PPPoE Server | HAProxy |  |  	|
+| FTP Server |  	| DHCP Server	|  	|  	|  	|
+| 	|  	| Captive portal |  	|  	|  	|
+| 	|  	| Load Balancer |  	|  	|  	|
+| 	|  	| Multi WAN	|  	|  	|  	|
+| 	|  	| High availability |  	|  	|  	|
+| 	|  	| Network Address Translation (NAT) |  	|  	|  	|
+| 	|  	| Firewall |  	|  	|  	|
+| 	|  	| IP PBX |  	|  	|  	|
+| 	|  	| IP DVR |  	|  	|  	|
 
 ## The Productivity Framework
 
@@ -105,3 +102,5 @@
 |  	|  	|  	|  	|  	|  	|
 |  	|  	|  	|  	|  	|  	|
 |  	|  	|  	|  	|  	|  	|
+
+🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
