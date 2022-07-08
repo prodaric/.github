@@ -37,39 +37,27 @@
 
 ### Prodaric Hub
 
-- Prodaric Hub offers an installation suite of client applications that can interact with the Prodaric core infrastructure on Microsoft Windows &reg;
+Prodaric Hub offers an installation suite of client applications that can interact with the Prodaric core infrastructure on Microsoft Windows &reg;
 
 ### Prodaric Workstation
 
-- Designed to be a suitable installation for a work station, both for operators and administrators, it tries to have the necessary tools and the necessary requirements in a company.
+Designed to be a suitable installation for a work station, both for operators and administrators, it tries to have the necessary tools and the necessary requirements in a company.
 
 ### Prodaric Kiosk
 
-- Designer for point of sale stations, order control, or self-service, ideal for unattended and public access computers.
+Designer for point of sale stations, order control, or self-service, ideal for unattended and public access computers.
 
 ### Prodaric Server
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis sem ultrices augue vulputate, ut iaculis massa maximus. Sed ac eros sit amet nulla rhoncus iaculis. Pellentesque elementum iaculis odio ac ultrices. Morbi non sodales nunc, eget sodales elit. Integer pulvinar lacus massa, non ullamcorper ante efficitur eget. Nunc purus urna, malesuada ac est eget, pulvinar faucibus risus. Sed molestie fermentum iaculis. Sed et elit est. Suspendisse imperdiet nisi eros. Sed hendrerit ante erat, ac congue ipsum auctor convallis.
 
  ### Prodaric Cloud
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Etiam tristique dolor vel consequat fringilla. Integer id odio auctor, dictum elit quis, pharetra velit. Vivamus quis magna tortor. Ut ac purus nec purus consequat mattis vitae ornare ipsum. Nullam aliquam aliquam lacus, id malesuada sapien ullamcorper a. Sed sed lectus a nisl ullamcorper imperdiet. Sed felis ante, maximus sit amet tempus vitae, volutpat eget enim. Donec nunc elit, egestas vitae suscipit et, ullamcorper a ipsum. Aliquam mi dolor, semper eu sapien ut, vehicula tempus ex.
 
  ### Prodaric IoT
 
-- 🙋‍♀️ A short introduction - what is your organization all about?
-- 🌈 Contribution guidelines - how can the community get involved?
-- 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-- 🍿 Fun facts - what does your team eat for breakfast?
-- 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Etiam maximus lectus at laoreet finibus. Nam cursus lacus dignissim dolor posuere fermentum. Integer gravida velit augue, eu tincidunt ex finibus nec. Etiam mattis risus in gravida vestibulum. Nullam id velit finibus massa lacinia rhoncus sed id lectus. Mauris vestibulum purus eget lacus interdum pulvinar. Vestibulum tortor diam, lacinia eget congue eu, auctor id nulla. In hac habitasse platea dictumst. Nulla a mauris dui. Nam dui libero, ultricies ut neque sit amet, fringilla cursus nisi.
 
 ## The Productivity Infrastructure
 
@@ -85,16 +73,8 @@
 
 ## The Productivity Framework
 
-| Prodaric CRM | Prodaric ERP | Prodaric HRM | Prodaric CCR | Prodaric LCM | Prodaric CMS |
+| [Prodaric CRM](https://crm.prodaric.com) | [Prodaric ERP](https://erp.prodaric.com) | [Prodaric HRM](https://hrm.prodaric.com) | [Prodaric CCR](https://ccr.prodaric.com) | [Prodaric LCM](https://.prodaric.com) | [Prodaric CMS](https://cms.prodaric.com) |
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
 | Customer Relationship Management	| Enterprise Resource Planning	| Human Resource Management	| Continuity of Care Record	| Learning Content Management	| Content Management System	|
-|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|  	|
 
 🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
