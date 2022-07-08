@@ -1,10 +1,9 @@
 # Prodaric is a Fedora based project for business.
 
 ![Prodaric: The Productivity Framework](https://prodaric.com/images/splash.png)
-
-|  | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
+| Choose the edition that suits you best | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
 | ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
-|  Zero telemetry | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
+|  Zero telemetry | true | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 |  Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 |  Framework	| :heavy_check_mark: |  | 	| 	| 	|
 |  Minimal KDE |  | :heavy_check_mark: | 	| 	| 	|
@@ -19,11 +18,13 @@
 |  Network Control	|	 | 	| 	| :heavy_check_mark:	| 	|
 | Webserver Tools	| 	| 	| :ballot_box_with_check:	| :heavy_check_mark:	| :heavy_check_mark: |
 | Control Panel	| 	| 	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
-| 	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com/) |
+| No Release	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com/) |
 
 :heavy_check_mark: Included 
 :ballot_box_with_check:	Optional 
 :link: Linked 
+
+> Consider the fact that there is no release version yet, we are developing the first distribution.
 
 ## Prodaric Workstation
 
@@ -57,3 +58,4 @@
 - 🍿 Fun facts - what does your team eat for breakfast?
 - 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
