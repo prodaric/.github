@@ -9,19 +9,21 @@
 | Based on | Fedora | Fedora | Fedora | Fedora | Fedora | FreeRTOS |
 | Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 | Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
-| Framework	| :heavy_check_mark: |  | 	| 	| 	|
-| Minimal KDE |  | :heavy_check_mark: | 	| 	| 	|
-| Office automation	| 	| :ballot_box_with_check:	| 	| 	| 	|
-| WebApps Client 	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| 	| 	|
-| Prodaric CRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric ERP	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric HRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric CCR | :ballot_box_with_check:	| :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric LCM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric CMS	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Network Tools	|	 | 	| 	| :heavy_check_mark:	| 	|
-| Webserver Tools	| 	| 	| :ballot_box_with_check:	| :heavy_check_mark:	| :heavy_check_mark: |
-| Control Panel	| 	| 	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
+| Framework	| :heavy_check_mark: |  | 	| 	| 	| |
+| Minimal KDE |  | :heavy_check_mark: | 	| 	| 	| |
+| Office automation	| 	| :ballot_box_with_check:	| 	| 	| 	| |
+| WebApps Client 	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| 	| 	| |
+| Prodaric CRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
+| Prodaric ERP	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
+| Prodaric HRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
+| Prodaric CCR | :ballot_box_with_check:	| :ballot_box_with_check:	| 	| :link:	| :link:	| |
+| Prodaric LCM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
+| Prodaric CMS	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
+| Network Tools	|	 | 	| 	| :ballot_box_with_check:	| 	| |
+| Webservers	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: | |
+| DBMS	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: | |
+| DevOps Tools	| 	| 	| | :ballot_box_with_check: | :ballot_box_with_check: | |
+| Control Panel	| 	| 	| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | |
 | No release available	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com/) |
 
 :heavy_check_mark: Included 
