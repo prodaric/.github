@@ -76,14 +76,18 @@
 
 | Core | Network Tools	| Webservers | DevOps Tools | Control Panel	|
 |---	|---	|---	|---	|---	|
-| 	|  	|  	|  	|  Cockpit |
-|  	|  	|  	|  	| 	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
-|  	|  	|  	|  	|  	|
+| 	| VPN Server	|  	|  	|  |
+|  	| Proxy Server |  	|  	|  	|
+|  	| DNS Server |  	|  	| 	|
+|  	| PPPoE Server |  	|  	|  	|
+|  	| DHCP Server	|  	|  	|  	|
+|  	| Captive portal |  	|  	|  	|
+|  	| Load Balancer |  	|  	|  	|
+|  	| Multi WAN	|  	|  	|  	|
+|  	| High availability |  	|  	|  	|
+|  	| Network Address Translation (NAT) |  	|  	|  	|
+|  	| Firewall |  	|  	|  	|
+|  	| IP PBX |  	|  	|  	|
 |  	|  	|  	|  	|  	|
 
 ## The Productivity Framework
