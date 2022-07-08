@@ -9,7 +9,7 @@
 
 | Choose edition | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
 | ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
-| Scope | Desktop Workstation | Desktop Workstation | POS Station | Intranet server | Internet server | IoT Devices |
+| Scope | Desktop Workstation | Desktop Workstation | POS Station | Intranet server | Internet server | Embedded on device |
 | Based on | .Net Framework | Fedora | Fedora | Fedora | Fedora | FreeRTOS |
 | Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 | Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
