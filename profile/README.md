@@ -2,7 +2,7 @@
 
 ![Prodaric: The Productivity Framework](https://prodaric.com/images/splash.png)
 
-|  | Prodaric Hub | Prodaric Workstation | Prodaric Kiosk | Prodaric Server | Prodaric Cloud | Prodaric IoT |
+|  | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
 | ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
 |  Zero telemetry | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 |  Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
@@ -19,8 +19,7 @@
 |  Network Control	|	 | 	| 	| :heavy_check_mark:	| 	|
 | Webserver Tools	| 	| 	| :ballot_box_with_check:	| :heavy_check_mark:	| :heavy_check_mark: |
 | Control Panel	| 	| 	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
-| 	| 	| 	| :heavy_check_mark:	| :heavy_check_mark:	| :heavy_check_mark: |
-| 	| <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> | <a class="github-button" href="https://github.com/prodaric/prodaric/archive/HEAD.zip" data-icon="octicon-download" data-size="large" aria-label="Download prodaric/prodaric on GitHub">Download</a> |
+| 	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com/) |
 
 :heavy_check_mark: Included 
 :ballot_box_with_check:	Optional 
