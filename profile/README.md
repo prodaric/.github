@@ -74,6 +74,18 @@
 
 ## The Productivity Infrastrcuture
 
+| Core | Network Tools	| Webservers | DevOps Tools | Control Panel	|
+|---	|---	|---	|---	|---	|
+| 	|  	|  	|  	|  Cockpit |
+|  	|  	|  	|  	| 	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+|  	|  	|  	|  	|  	|
+
 ## The Productivity Framework
 | Prodaric CRM | Prodaric ERP | Prodaric HRM | Prodaric CCR | Prodaric LCM | Prodaric CMS |
 |:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
