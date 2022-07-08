@@ -13,7 +13,7 @@
 | Based on | .Net Framework | Fedora | Fedora | Fedora | Fedora | FreeRTOS |
 | Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
 | Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
-| Minimal KDE |  | :heavy_check_mark: | 	| 	| 	| |
+| Minimal KDE |  | :heavy_check_mark: | :heavy_check_mark: | 	| 	| |
 | Office automation	| 	| :ballot_box_with_check:	| 	| 	| 	| |
 | WebApps Client 	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| 	| 	| |
 | Prodaric CRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
