@@ -73,21 +73,15 @@
 
 ## The Productivity Infrastructure
 
-| Storage | Security | Network Tools	| Webservers | DBMS | DevOps Tools |
-|---	|---	|---	|---	|---	|---	|
-| NFS | TPM 2.0 | VPN Server	| Apache | MySQL |  |
-| iSCSI | FreeIPA | Squid Proxy | nginx | PostgreSQL |  	|
-| GlusterFS | OpenLDAP | DNS Server | Tomcat	| Redis	|  |
-| Samba	|  | PPPoE Server | HAProxy |  |  	|
-| FTP Server |  	| DHCP Server	|  	|  	|  	|
-| 	|  	| Captive portal |  	|  	|  	|
-| 	|  	| Load Balancer |  	|  	|  	|
-| 	|  	| Multi WAN	|  	|  	|  	|
-| 	|  	| High availability |  	|  	|  	|
-| 	|  	| Network Address Translation (NAT) |  	|  	|  	|
-| 	|  	| Firewall |  	|  	|  	|
-| 	|  	| IP PBX |  	|  	|  	|
-| 	|  	| IP DVR |  	|  	|  	|
+| File Storage | Security | Intranet |  DMZ | Webservers | DBMS | DevOps Tools |
+|---	|---	|---	|---	|---	|---	|---	|
+| NFS | TPM 2.0 | Squid Proxy | VPN Server	| Apache | MySQL |  |
+| iSCSI | FreeIPA | Captive portal | High availability | nginx | PostgreSQL |  	|
+| GlusterFS | OpenLDAP | IP DVR | DNS Server | Tomcat	| Redis	|  |
+| Samba | Firewall | IP PBX |  | HAProxy |  |  	|
+| FTP Server |  | DHCP Server | Load Balancer	|  	|  	|  	|
+| 	|  | 	| Multi WAN	|  	|  	|  	|
+| 	|  | 	| NAT |  	|  	|  	|
 
 ## The Productivity Framework
 
