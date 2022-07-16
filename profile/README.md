@@ -7,27 +7,27 @@
 
 ## The Productivity Architecture
 
-| Choose edition | Prodaric <br /> Hub | Prodaric <br /> Workstation | Prodaric <br /> Kiosk | Prodaric <br /> Server | Prodaric <br /> Cloud | Prodaric <br /> IoT |
-| ---	| :-:	| :-:	| :-:	| :-:	| :-:	| :-:	|
-| Scope | Workstation | Workstation | POS | Intranet | Internet | Embedded |
-| Based on | .Net Framework | Fedora | Fedora | Fedora | Fedora | FreeRTOS |
-| Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
-| Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	| :heavy_check_mark: |
-| Minimal KDE |  | :heavy_check_mark: | :heavy_check_mark: | 	| 	| |
-| Office automation	| 	| :ballot_box_with_check:	| 	| 	| 	| |
-| WebApps Client 	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| 	| 	| |
-| Prodaric CRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
-| Prodaric ERP	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
-| Prodaric HRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
-| Prodaric CCR | :ballot_box_with_check:	| :ballot_box_with_check:	| 	| :link:	| :link:	| |
-| Prodaric LCM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
-| Prodaric CMS	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	| |
-| Network Tools	|	 | 	| 	| :ballot_box_with_check:	| 	| |
-| Webservers	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: | |
-| DBMS	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: | |
-| DevOps Tools	| 	| 	| | :ballot_box_with_check: | :ballot_box_with_check: | |
-| Control Panel	| 	| 	| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: | |
-| No release available	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com/) |
+| Choose edition | Prodaric Hub | Prodaric Workstation | Prodaric Kiosk | Prodaric Server | Prodaric Cloud |
+| ---	| :-:	| :-:	| :-:	| :-:	| :-:	|
+| Scope | Workstation | Workstation | POS | Intranet | Internet |
+| Based on | .Net Framework | Fedora | Fedora | Fedora | Fedora |
+| Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	|
+| Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	|
+| Minimal KDE |  | :heavy_check_mark: | :heavy_check_mark: | 	| 	|
+| Office automation	| 	| :ballot_box_with_check:	| 	| 	| 	|
+| WebApps Client 	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| 	| 	|
+| Prodaric CRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+| Prodaric ERP	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+| Prodaric HRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+| Prodaric CCR | :ballot_box_with_check:	| :ballot_box_with_check:	| 	| :link:	| :link:	|
+| Prodaric LCM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+| Prodaric CMS	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
+| Network Tools	|	 | 	| 	| :ballot_box_with_check:	| 	|
+| Webservers	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: |
+| DBMS	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: |
+| DevOps Tools	| 	| 	| | :ballot_box_with_check: | :ballot_box_with_check: |
+| Control Panel	| 	| 	| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
+| No release available	| [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://prodaric.com/images/download.svg "Download ISO")](https://prodaric.com) |
 
 :heavy_check_mark: Included 
 :ballot_box_with_check:	Optional 
@@ -54,10 +54,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis sem ultri
  ### Prodaric Cloud
 
 Etiam tristique dolor vel consequat fringilla. Integer id odio auctor, dictum elit quis, pharetra velit. Vivamus quis magna tortor. Ut ac purus nec purus consequat mattis vitae ornare ipsum. Nullam aliquam aliquam lacus, id malesuada sapien ullamcorper a. Sed sed lectus a nisl ullamcorper imperdiet. Sed felis ante, maximus sit amet tempus vitae, volutpat eget enim. Donec nunc elit, egestas vitae suscipit et, ullamcorper a ipsum. Aliquam mi dolor, semper eu sapien ut, vehicula tempus ex.
-
- ### Prodaric IoT
-
-Etiam maximus lectus at laoreet finibus. Nam cursus lacus dignissim dolor posuere fermentum. Integer gravida velit augue, eu tincidunt ex finibus nec. Etiam mattis risus in gravida vestibulum. Nullam id velit finibus massa lacinia rhoncus sed id lectus. Mauris vestibulum purus eget lacus interdum pulvinar. Vestibulum tortor diam, lacinia eget congue eu, auctor id nulla. In hac habitasse platea dictumst. Nulla a mauris dui. Nam dui libero, ultricies ut neque sit amet, fringilla cursus nisi.
 
 ## The Productivity Infrastructure
 
