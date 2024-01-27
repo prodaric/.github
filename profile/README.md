@@ -67,10 +67,5 @@ Etiam tristique dolor vel consequat fringilla. Integer id odio auctor, dictum el
 | Samba | Firewall | IP PBX | NAT | DNS Server |  | Redmine | Kubernetes |
 | FTP Server | PPPoE Server | DHCP Server | VPN Server | Mail Server	|  	| |  |
 
-## The Productivity Framework
-
-| [Prodaric CRM](https://crm.prodaric.com) | [Prodaric ERP](https://erp.prodaric.com) | [Prodaric HRM](https://hrm.prodaric.com) | [Prodaric CCR](https://ccr.prodaric.com) | [Prodaric LCM](https://.prodaric.com) | [Prodaric CMS](https://cms.prodaric.com) |
-|:---:	|:---:	|:---:	|:---:	|:---:	|:---:	|
-| Customer Relationship Management	| Enterprise Resource Planning	| Human Resource Management	| Continuity of Care Record	| Learning Content Management	| Content Management System	|
 
 🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
