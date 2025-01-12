@@ -27,7 +27,7 @@
 | DBMS	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: |
 | DevOps Tools	| 	| 	| | :ballot_box_with_check: | :ballot_box_with_check: |
 | Control Panel	| 	| 	| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
-| No release available	| [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://prodaric.com) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://prodaric.com) |
+| No release available	| [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) |
 
 :heavy_check_mark: Included 
 :ballot_box_with_check:	Optional 
