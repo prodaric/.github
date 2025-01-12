@@ -1,6 +1,6 @@
 # Prodaric is a Fedora based project for business.
 
-[![Prodaric: The Productivity Framework](https://coderic.org/Prodaric/images/splash.png)](#)
+[![Prodaric: The Productivity Framework](https://coderic.org/Prodaric/images/splash.png)](https://github.com/prodaric)
 
 > The Productivity Framework It is a fascinating vision, in the logical argument of not continuing to reinvent the wheel, we have decided not to continue   in the stone age making the same needs for each application we want to do. Thinking smart is advancing sustainable development.
   [Neftalí Yagua](https://github.com/neftaliyagua) - CEO of Coderic.
