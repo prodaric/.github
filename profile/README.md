@@ -1,71 +1,176 @@
-# Prodaric is a Fedora based project for business.
+# Prodaric
 
-[![Prodaric: The Productivity Framework](https://coderic.org/Prodaric/images/splash.png)](https://github.com/prodaric)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/prodaric/Prodaric/ci.yml?branch=main&style=flat-square)](https://github.com/prodaric/Prodaric/actions)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)](https://dotnet.microsoft.com/)
+[![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 
-> The Productivity Framework It is a fascinating vision, in the logical argument of not continuing to reinvent the wheel, we have decided not to continue   in the stone age making the same needs for each application we want to do. Thinking smart is advancing sustainable development.
-  [Neftalí Yagua](https://github.com/neftaliyagua) - CEO of Coderic.
+**The Property Intelligence Platform**
 
-## The Productivity Architecture
+Comprehensive technology platform transforming real estate management through professional software architecture, data analytics, and intelligent automation.
 
-| Choose edition | Prodaric Hub | Prodaric Workstation | Prodaric Kiosk | Prodaric Server | Prodaric Cloud |
-| ---	| :-:	| :-:	| :-:	| :-:	| :-:	|
-| Scope | Workstation | Workstation | POS | Intranet | Internet |
-| Based on | .Net Framework | Fedora | Fedora | Fedora | Fedora |
-| Zero telemetry |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	|
-| Prodaric core |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:	|
-| Minimal KDE |  | :heavy_check_mark: | :heavy_check_mark: | 	| 	|
-| Office automation	| 	| :ballot_box_with_check:	| 	| 	| 	|
-| WebApps Client 	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| 	| 	|
-| Prodaric CRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric ERP	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric HRM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric CCR | :ballot_box_with_check:	| :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric LCM	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Prodaric CMS	| :ballot_box_with_check: | :ballot_box_with_check:	| 	| :link:	| :link:	|
-| Network Tools	|	 | 	| 	| :ballot_box_with_check:	| 	|
-| Webservers	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: |
-| DBMS	| 	| 	| :ballot_box_with_check:	| :ballot_box_with_check:	| :ballot_box_with_check: |
-| DevOps Tools	| 	| 	| | :ballot_box_with_check: | :ballot_box_with_check: |
-| Control Panel	| 	| 	| :ballot_box_with_check: | :ballot_box_with_check: | :ballot_box_with_check: |
-| No release available	| [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) | [![Download ISO](https://coderic.org/Prodaric/images/download.svg "Download ISO")](https://coderic.org/Prodaric) |
+---
 
-:heavy_check_mark: Included 
-:ballot_box_with_check:	Optional 
-:link: Linked 
+## 🎯 Vision
 
-> Consider the fact that there is no release version yet, we are developing the first distribution.
+Revolutionize the real estate sector by connecting properties, data, and people in a scalable technology ecosystem that drives intelligence-based decisions.
 
-### Prodaric Hub
+## 🏗️ Product Architecture
 
-Prodaric Hub offers an installation suite of client applications that can interact with the Prodaric core infrastructure on Microsoft Windows &reg;
+| Product | Description | Status |
+|---------|-------------|--------|
+| **Prodaric Core** | Base platform with fundamental APIs and services | 🔧 In Development |
+| **Prodaric Lease** | Complete lease and contract management | 📋 Planning |
+| **Prodaric Invest** | Real estate investment analysis and ROI | 📋 Planning |
+| **Prodaric Market** | Marketplace for buy, sell, and rent | 📋 Planning |
+| **Prodaric Manage** | Property management and operations | 📋 Planning |
+| **Prodaric Analytics** | Business intelligence and data visualization | 📋 Planning |
 
-### Prodaric Workstation
+## 🛠️ Technology Stack
 
-Designed to be a suitable installation for a work station, both for operators and administrators, it tries to have the necessary tools and the necessary requirements in a company.
+### Backend
+- **.NET 8** - Modern, high-performance framework
+- **ASP.NET Core** - Web APIs and services
+- **Entity Framework Core** - ORM and database access
+- **MediatR** - CQRS pattern implementation
+- **FluentValidation** - Input validation
 
-### Prodaric Kiosk
+### Frontend
+- **React 18** - Component-based UI library
+- **TypeScript 5** - Type-safe JavaScript
+- **Tailwind CSS** - Utility-first styling
+- **React Query** - Data fetching and caching
+- **Zustand** - State management
+- **Vite** - Build tool and dev server
 
-Designer for point of sale stations, order control, or self-service, ideal for unattended and public access computers.
+### Infrastructure
+- **PostgreSQL** - Primary database
+- **Redis** - Caching and sessions
+- **Azure/AWS** - Cloud hosting
+- **Docker** - Containerization
+- **Kubernetes** - Orchestration
+- **GitHub Actions** - CI/CD pipeline
 
-### Prodaric Server
+### APIs & Integration
+- **REST APIs** - RESTful endpoints with OpenAPI
+- **GraphQL** - Flexible data querying
+- **WebSockets** - Real-time communication
+- **SignalR** - Push notifications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed facilisis sem ultrices augue vulputate, ut iaculis massa maximus. Sed ac eros sit amet nulla rhoncus iaculis. Pellentesque elementum iaculis odio ac ultrices. Morbi non sodales nunc, eget sodales elit. Integer pulvinar lacus massa, non ullamcorper ante efficitur eget. Nunc purus urna, malesuada ac est eget, pulvinar faucibus risus. Sed molestie fermentum iaculis. Sed et elit est. Suspendisse imperdiet nisi eros. Sed hendrerit ante erat, ac congue ipsum auctor convallis.
+## ✨ Key Features
 
- ### Prodaric Cloud
+- 🏢 **Modular & Scalable Architecture** - Microservices-ready design
+- 📡 **RESTful APIs** - Comprehensive API documentation with OpenAPI/Swagger
+- 🏪 **Multi-tenancy** - Native support for multiple organizations
+- ⚡ **Real-time Updates** - WebSocket connections for live data
+- 🔐 **Enterprise Security** - OAuth 2.0, JWT, RBAC, audit logging
+- 🌍 **Internationalization** - i18n support for global deployment
+- 📱 **Responsive Design** - Mobile-first approach
+- 🔌 **External Integrations** - Connect with third-party services
+- 🧪 **Test Coverage** - Unit, integration, and E2E tests
+- 📊 **Monitoring & Observability** - Application insights and metrics
 
-Etiam tristique dolor vel consequat fringilla. Integer id odio auctor, dictum elit quis, pharetra velit. Vivamus quis magna tortor. Ut ac purus nec purus consequat mattis vitae ornare ipsum. Nullam aliquam aliquam lacus, id malesuada sapien ullamcorper a. Sed sed lectus a nisl ullamcorper imperdiet. Sed felis ante, maximus sit amet tempus vitae, volutpat eget enim. Donec nunc elit, egestas vitae suscipit et, ullamcorper a ipsum. Aliquam mi dolor, semper eu sapien ut, vehicula tempus ex.
+## 🚀 Quick Start
 
-## The Productivity Infrastructure
+### Prerequisites
 
-### Server infrastructure
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Node.js 20+](https://nodejs.org/)
+- [PostgreSQL 15+](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/) (optional)
 
-| Storage | Security | Intranet |  DMZ | Web | DBMS | DevOps | Virtualization |
-|---	|---	|---	|---	|---	|---	|---	|---	|
-| NFS | TPM 2.0 | Squid Proxy | Load Balancer | Apache | MySQL | Jenkins | KVM |
-| iSCSI | FreeIPA | Captive portal | High availability | Nginx | PostgreSQL | TeamCity | Vagrant |
-| GlusterFS | OpenLDAP | IP DVR | Multi WAN | Tomcat	|  | GitLab | Podman |
-| Samba | Firewall | IP PBX | NAT | DNS Server |  | Redmine | Kubernetes |
-| FTP Server | PPPoE Server | DHCP Server | VPN Server | Mail Server	|  	| |  |
+### Development Setup
 
+```bash
+# Clone the repository
+git clone https://github.com/prodaric/Prodaric.git
+cd Prodaric
 
-🔴 🟠 ⚫ ⚪ 🟣 🟢 🟡 🔵
+# Backend setup
+cd src/backend
+dotnet restore
+dotnet ef database update
+dotnet run
+
+# Frontend setup (new terminal)
+cd src/frontend
+npm install
+npm run dev
+```
+
+### Docker Deployment
+
+```bash
+# Start all services
+docker-compose up -d
+
+# View logs
+docker-compose logs -f
+
+# Stop services
+docker-compose down
+```
+
+## 📚 Documentation
+
+- [Architecture Overview](docs/architecture.md)
+- [API Reference](docs/api-reference.md)
+- [Development Guide](docs/development-guide.md)
+- [Deployment Guide](docs/deployment-guide.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+
+## 🗺️ Roadmap
+
+### Q1 2026
+- [x] Repository transfers and organization setup
+- [ ] Core platform architecture definition
+- [ ] Authentication and authorization system
+- [ ] Multi-tenancy foundation
+- [ ] API gateway implementation
+
+### Q2 2026
+- [ ] Prodaric Core MVP release
+- [ ] Database schema design
+- [ ] Admin dashboard
+- [ ] Documentation portal
+- [ ] CI/CD pipeline setup
+
+### Q3 2026
+- [ ] Prodaric Lease alpha release
+- [ ] Payment gateway integration
+- [ ] Mobile app development
+- [ ] Analytics engine foundation
+
+### Q4 2026
+- [ ] Prodaric Invest beta release
+- [ ] ML models for property valuation
+- [ ] Public API release
+- [ ] Partner ecosystem launch
+
+## 🤝 Contributing
+
+We welcome contributions from the community! Please read our [Contributing Guidelines](CONTRIBUTING.md) for details on:
+
+- Code of Conduct
+- Development workflow
+- Pull request process
+- Coding standards
+- Testing requirements
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 💬 Support & Contact
+
+- **Issues**: [GitHub Issues](https://github.com/prodaric/Prodaric/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/orgs/prodaric/discussions)
+- **Email**: [neftali@coderic.org](mailto:neftali@coderic.org)
+- **Website**: [prodaric.com](https://prodaric.com) (coming soon)
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ by the Prodaric Team</sub>
+</p>
